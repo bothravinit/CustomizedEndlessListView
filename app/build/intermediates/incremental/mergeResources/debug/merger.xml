@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res" >
+            <file
+                name="arrow"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/drawable-hdpi/arrow.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="gradient_bg"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/drawable-hdpi/gradient_bg.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="gradient_bg_hover"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/drawable-hdpi/gradient_bg_hover.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="heart"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/drawable-hdpi/heart.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="image_bg"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/drawable-hdpi/image_bg.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="list_selector"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/drawable-hdpi/list_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="no_image"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/drawable-hdpi/no_image.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="play"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/drawable-hdpi/play.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rihanna"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/drawable-hdpi/rihanna.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="list_row"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/layout/list_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >CustomizedListView
+                </string>
+                <string name="hello" >Hello World, CustomizedListView!
+                </string>
+            </file>
+            <file
+                name="load_more_footer"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/layout/load_more_footer.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_item"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/layout/list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="progress_list_item"
+                path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/layout/progress_list_item.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/build/generated/res/rs/debug" />
+        <source path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/debug/res" />
+    </dataSet>
+
+</merger>

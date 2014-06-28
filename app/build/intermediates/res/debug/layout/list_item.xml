@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<TextView xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:tools="http://schemas.android.com/tools"-->
+    <!--android:id="@+id/list_text"-->
+    <!--android:layout_width="10dp"-->
+    <!--android:layout_height="20dp"-->
+    <!--android:textSize="8sp">-->
+<!--</TextView>-->
+    <!--android:padding="10dp"-->
+
+<!--<ImageView xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:id="@+id/imageView1"-->
+    <!--android:layout_width="40dp"-->
+    <!--android:layout_height="40dp"-->
+    <!--android:padding="5dp"-->
+    <!--android:src="@drawable/ic_launcher" />-->
+
+
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="100dp"-->
+    <!--android:orientation="horizontal" >-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/test_text"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:textSize="28sp"-->
+        <!--android:text="test">-->
+    <!--</TextView>-->
+<!--</LinearLayout>-->
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:textSize="24sp"
+    android:text="static"
+    >
+</TextView><!-- From: file:/Users/vinit.bothra/android/AndroidStudioProjects/CustomizedListView1/app/src/main/res/layout/list_item.xml -->
